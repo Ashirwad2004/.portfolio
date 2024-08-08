@@ -934,7 +934,7 @@ html {
   display: -webkit-inline-box !important;
   display: -ms-inline-flexbox !important;
   display: inline-flex !important; }
-
+  
 @media (min-width: 576px) {
   .d-sm-none {
     display: none !important; }
